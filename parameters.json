@@ -6,13 +6,10 @@
       "value": "jimmy"
     },
     "adminPassword": {
-      "value": "$o1234567890"
+      "value": "xyz1234567890"
     },
     "dnsLabelPrefix": {
-      "value": "jimmyvm"
-    },
-    "CentOSVersion": {
-        "value": "7.1"
+      "value": "jimmy"
     }
   }
 }
