@@ -6,10 +6,13 @@
       "value": "jimmy"
     },
     "adminPassword": {
-      "value": "xyz1234567890"
+      "value": "Xyz1234567890"
     },
     "dnsLabelPrefix": {
       "value": "jimmy"
+    },
+    "dnsLabelPrefix2": {
+      "value": "jimmy2"
     }
   }
 }
